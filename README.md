@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilsekh Patnaik</h1>
+<h1 align="center">Hi 👋, I'm Dilsekh </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsekhpatnaik7&label=Profile%20views&color=0e75b6&style=flat" alt="dilsekhpatnaik7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dilsekhed" target="blank"><img src="https://img.shields.io/twitter/follow/dilsekhed?logo=twitter&style=for-the-badge" alt="dilsekhed" /></a> </p>
