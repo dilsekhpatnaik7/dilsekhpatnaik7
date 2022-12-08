@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilsekh</h1>
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on MERN Stack
 
-- 🌱 I’m currently learning **DSA & Full Stack Development**
+- 🌱 I’m currently learning DSA & Full Stack Development
 
-- 👯 I’m looking to collaborate on **Open Source & MERN Stack Projects**
+- 👯 I’m looking to collaborate on Open Source & MERN Stack Projects
 
 - 📫 How to reach me **dilsekhpatnaik7@gmail.com**
 
