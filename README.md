@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dilsekh</h1>
+<h1 align="center">
+    Hi There,
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Dilsekh!
+</h1>
 - 🔭 I’m currently working on MERN Stack
 
 - 🌱 I’m currently learning DSA & Full Stack Development
 
 - 👯 I’m looking to collaborate on Open Source & MERN Stack Projects
 
-- 📫 How to reach me **dilsekhpatnaik7@gmail.com**
+- 📫 How to reach me dilsekhpatnaik7@gmail.com
 
-- ⚡ Fun fact **I'm a Musician**
+- ⚡ Fun fact I'm a Musician
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
