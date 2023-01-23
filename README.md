@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi There,
+    Hi,
     <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
