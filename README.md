@@ -25,6 +25,8 @@
  ⚡ Fun fact **I'm a Musician**
 </div>
 <hr>
+<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/git-header.svg"></img>
+<hr>
 <h3 align="center"><img align="center" src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/Handshake.gif" height=40px</img>Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/dilsekhed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilsekhed" height="30" width="40" /></a>
