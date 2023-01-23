@@ -1,3 +1,4 @@
+<div align="center"><img width="100%" height="100%" src="https://rishavanand.github.io/static/images/greetings.gif"></img></div>
 <h1 align="center">
     Hi There,
     <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" 
