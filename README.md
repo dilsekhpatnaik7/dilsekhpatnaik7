@@ -22,7 +22,7 @@
 
  📫 How to reach me **dilsekhpatnaik7@gmail.com**
 
- ⚡ Fun fact **I'm a Musician**
+ ⚡ Fun fact **I'm a Musician🎸🎹🥁**
 </div>
 <hr>
 <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/git-header.svg"></img>
