@@ -38,7 +38,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilsekhpatnaik7&label=Profile%20views&color=0e75b6&style=flat" alt="dilsekhpatnaik7" /> </p>
 <hr>
-<div align="center"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" heigh="100%"/></div>
+<div align="center" width="100%"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /></div>
 <hr>
 <h3 align="center"><img src="https://s4.gifyu.com/images/rocket.gif"></img>   Tech Stack:</h3>
 <div align="center">  
