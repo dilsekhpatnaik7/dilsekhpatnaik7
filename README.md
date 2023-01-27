@@ -14,7 +14,7 @@
 
 <h3 align="center"><img src="https://s4.gifyu.com/images/penguin.gif"></img>   About Me:</h3>
 <div align="center">
- <p>🔭 I’m currently working on <strong>MERN Stack</strong></p>
+ <p>🔭 I’m currently working on <strong>Full Stack Web Development Using MERN Stack</strong></p>
 
  🌱 I’m currently learning **DSA & Full Stack Development**
 
