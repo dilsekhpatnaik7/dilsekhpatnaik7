@@ -40,7 +40,7 @@
 <hr>
 <div align="center" width="100%"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /></div>
 <hr>
-<h3 align="center"><img src="https://s4.gifyu.com/images/rocket.gif"></img>   Tech Stack:</h3>
+<h3 align="center"><img src="https://s4.gifyu.com/images/rocket.gif"></img>   Tech Stack:   <img src="https://github.com/Sagar0-0/Sagar0-0/blob/main/GIF/Earth.gif" /></h3>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
