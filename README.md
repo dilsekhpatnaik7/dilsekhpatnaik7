@@ -69,4 +69,5 @@
 
 <hr>
 <img src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/footer.png"></img><hr>
+<img src="https://github.blog/wp-content/uploads/2023/01/100million-header.png?resize=1200%2C627" /><hr>
 <div align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></div>
