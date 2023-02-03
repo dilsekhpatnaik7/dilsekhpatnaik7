@@ -33,6 +33,7 @@
 <a href="https://discord.gg/#4478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4478" height="30" width="40" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilsekhpatnaik7&label=Profile%20views&color=0e75b6&style=flat" alt="dilsekhpatnaik7" /> </p>
+<div align="center"><img src="https://media.tenor.com/igbavBMPgjAAAAAC/astronaut-space.gif" /></div>
 <hr>
 <div align="center" width="100%"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" /></div>
 <hr>
