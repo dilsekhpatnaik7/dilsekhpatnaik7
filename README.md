@@ -21,6 +21,7 @@
 
  ⚡ Fun fact **I'm a Musician🎸🎹🥁**
 </div>
+<div align='center'><img src="https://media3.giphy.com/media/91uDrLZKuLUbe/giphy.gif?cid=ecf05e47qm2n9ohi0360zpdpc27sjg4wg2p6nr8r9p25n1zl&rid=giphy.gif&ct=g" /></div>
 <hr>
 <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/git-header.svg"></img>
 <hr>
