@@ -71,9 +71,12 @@
 
 <hr>
 <img src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/footer.png"></img><hr>
-<div align="center"><picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=dark&border=FFFFFF7F&background=00000084" />
+<div align="center">
+  <h3>Streak Stats: <img src="https://s4.gifyu.com/images/penguin.gif" /></h3>
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=dark&border=000000&background=00000084" />
     <img src="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=default" />
-</picture></div><hr>
+  </picture>
+</div><hr>
 <div align="center"><img src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=800%2C425" /></div><hr>
 <div align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></div>
