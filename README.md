@@ -77,6 +77,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=dark&border=000000&background=00000084" />
     <img src="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=default" />
   </picture>
-</div><hr>
+</div>
+<div align='center'><img src="https://media0.giphy.com/media/443kbHqcFFwOvTuAWf/giphy.gif?cid=ecf05e47xdymjtez1a3ndfgen8pe2orr37z8e6hf3p2h4yca&rid=giphy.gif&ct=g" /></div>
+<hr>
 <div align="center"><img src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=800%2C425" /></div><hr>
 <div align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></div>
