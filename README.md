@@ -1,5 +1,4 @@
 <div align="center"><img src="https://camo.githubusercontent.com/1140a4f2ffe1d7d5432df78421909e56c97909423568e609983ec3d4fbcb0b22/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4f72626974726f6e2673697a653d343026636f6c6f723d253233373941353030266865696768743d3637266475726174696f6e3d333030302663656e7465723d74727565266c696e65733d254630253946253835254236254630253946253836253831254630253946253835254234254630253946253835254234254630253946253836253833254630253946253835254238254630253946253835254244254630253946253835254236254630253946253836253832" /></div>
-<div align="center"><img src="https://lh3.googleusercontent.com/CXcTleiumTz6OamiqXaf5wXDHL1OOXKWyykQbGwRNDJsLtQGN2pnyQ7zdNDTPEF6MJqhgl4o-URlRgvFSIUXnePR8NJphQNTOwybrhkkqjPvzg002pcQvpSIl0whFWmfuYVDfuKvxiJ4qAFEV-pFPwoV8B1G3bfqXc1T619YlEuPlBOp-Y9AtTUWFuw5m_XtXbc2wMxCEXC8Fl1F5ZN4VoMQJrCi5MBJxN115h1quAGoKzMce9gY5tEZYRfZdErKOg8hufUDJ9_gxtRXgFpiG1_uTF5rSS3bTqp86W5g7H9XQWtxhKP_b6Ytrb9sIts1hEpUqlm6IugVAfFxeEP49tF0lVJjLSJaoIbcAycwKO8cqiZmseE0cJXD_lIPtCUuWWobuwjynuHfm65BECVa9Wwj92MnHPEYB30xZtRjoXJHyIdCl0lkGSD6WqZe7lPuqVT47E8IjKEiVvTs--Z8dmdGjRT2MbH4E_dRYCGW8Ec7XiNScMyKbxbT5i6ZqlEkdzd6X6TfVEVishOISaOEgjQF8pDXYg3KObwD_2PKoTMUurIxyYBSDfcC7q1inXxRtxxUTFj8-6h_toqJxcaXN3XOfKBxxrk4npk9Tgxfjt8mdsveTRCyLydthIPW0c9O_1YqNNugOlWFf-s7D3KVBpRIo3kPjpsEWY2f_ymKUbJCxGJBsPmMFAgrkNa7wp_8Yyg5e6xpadTjPWwKuVCPNYN_joZUeS83IZCmQdoRYzc6SxQozss4kK2zELZ7M1PaBSqD-b49WKkY5GnLQsRSMDiqnpZ3qiFKNsE5FmlwVcqsf8J_OLI9Epcbn-wRp2f51Nq0ccc1p_ksxq6Sou6dO34MglNuDLPHYcKuUqcxeTpD9qALQhJFAaxcG7NIVfXG_HA7knsP7AnlmDpZfl8VAvvgau8tovHKDJEBPjF3Sk0C=w751-h423-no?authuser=0" /></div>
 <div align="center"><img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" /></div>
 <div style="display:flex" align="center">
   <img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="190" height="190" />
@@ -72,5 +71,9 @@
 
 <hr>
 <img src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/footer.png"></img><hr>
+<div align="center"><picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=dark&border=FFFFFF7F&background=00000084" />
+    <img src="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=default" />
+</picture></div><hr>
 <div align="center"><img src="https://github.blog/wp-content/uploads/2023/01/100MDevs_Blog_1200x627_v3.gif?resize=800%2C425" /></div><hr>
 <div align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></div>
