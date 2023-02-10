@@ -49,8 +49,7 @@
 <div align="center">
   <h3>Streak Stats: <img src="https://s4.gifyu.com/images/penguin.gif" /></h3>
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=dark&border=000000&background=00000084" />
-    <img src="https://streak-stats.demolab.com?user=dilsekhpatnaik7&theme=default" />
+    <a href="http://www.github.com/dilsekhpatnaik7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dilsekhpatnaik7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   </picture>
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></div>
