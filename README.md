@@ -47,7 +47,7 @@
 
 <img src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/footer.png"></img>
 <div align="center">
-  <h3>Streak Stats: <img src="https://s4.gifyu.com/images/penguin.gif" /></h3>
+  <h3>GitHub Stats: <img src="https://s4.gifyu.com/images/penguin.gif" /></h3>
   <picture align="center">
     <a href="http://www.github.com/dilsekhpatnaik7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dilsekhpatnaik7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   </picture>
