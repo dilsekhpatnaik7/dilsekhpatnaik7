@@ -45,7 +45,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>  
 
-<img src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/footer.png"></img>
+<!-- <img src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/footer.png"></img> -->
 <div align="center">
   <h3>GitHub Stats: <img src="https://s4.gifyu.com/images/penguin.gif" /></h3>
   <picture align="center">
