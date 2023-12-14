@@ -55,6 +55,11 @@
     <a href="http://www.github.com/dilsekhpatnaik7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dilsekhpatnaik7&stroke=ffffff&background=0000009D&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   </picture>
 </div>
+<div>
+ <div align="left" style="display: inline-block;"><img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" /></div>
+ <div align="right" style="display: inline-block;"><img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" /></div>
+</div>
+
 <div align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></div>
 
 
