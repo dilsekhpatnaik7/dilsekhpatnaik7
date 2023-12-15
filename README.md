@@ -2,7 +2,7 @@
 
 ![1](/banner.png "Banner")
 
-<!--\\ <div align="center"><img src="https://github.com/dilsekhpatnaik7/dilsekhpatnaik7/blob/main/dp.png" /></div> -->
+<!--\\<div align="center"><img src="https://github.com/dilsekhpatnaik7/dilsekhpatnaik7/blob/main/dp.png" /></div> -->
 
 <!-- <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&pause=1000&center=true&width=440&height=53&lines=Shalom%F0%9F%99%8F%2C+I'm+Dilsekh;MERN+Stack+Developer;Programmer;Open+Source+Contributor;Graphic+Desinger;Blockchain+Enthusiast;Musician" alt="Typing SVG" /></a></div> -->
 
