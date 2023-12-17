@@ -6,6 +6,10 @@
 
 <!-- <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&pause=1000&center=true&width=440&height=53&lines=Shalom%F0%9F%99%8F%2C+I'm+Dilsekh;MERN+Stack+Developer;Programmer;Open+Source+Contributor;Graphic+Desinger;Blockchain+Enthusiast;Musician" alt="Typing SVG" /></a></div> -->
 
+<div align="center">
+ <img src="https://i.pinimg.com/originals/39/b9/4e/39b94e67b72156a364c7271805b25098.gif" width=20%/>
+</div>
+
 <h3 align="center"><img align="center" src="https://raw.githubusercontent.com/anotherwebguy/anotherwebguy/main/Handshake.gif" height=40px</img>Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/dilsekhed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilsekhed" height="30" width="40" /></a>
